@@ -2,7 +2,7 @@
 
 Welcome to the **HTB Linux Fundamentals** notes repository! 🐧
 
-This repository contains structured, summarized notes based on the [HTB Academy](https://academy.hackthebox.com](https://academy.hackthebox.com/module/details/18) **Linux Fundamentals** module. These notes are tailored to provide a quick reference for cybersecurity learners and enthusiasts who want to build a strong foundation in Linux for offensive and defensive security operations.
+This repository contains structured, summarized notes based on the [HTB Academy – Linux Fundamentals Module](https://academy.hackthebox.com/module/details/18). These notes are tailored to provide a quick reference for cybersecurity learners and enthusiasts who want to build a strong foundation in Linux for offensive and defensive security operations.
 
 ---
 
